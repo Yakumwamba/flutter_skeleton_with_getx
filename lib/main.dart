@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
-import 'package:flutter_getx_boilerplate/shared/shared.dart';
 import 'package:get/get.dart';
-
+import 'package:match_mamker/shared/constants/colors.dart';
 import 'app_binding.dart';
 import 'di.dart';
 import 'lang/lang.dart';
