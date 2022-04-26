@@ -1,8 +1,5 @@
-# Skeleton Flutter App with GetX state Management
+# This is a Flutter Starter Template with GetX 
 
-A new Flutter project.
+This is a simple flutter starter project I created to learn about GetX state Management. You can use it start your own FLutter project with GetX already configured.
 
-## Getting Started
-
-This project is a starting point for a Flutter application with GetX State Management.
 
